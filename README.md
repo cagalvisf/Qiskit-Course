@@ -6,7 +6,7 @@ Here I am sharing my answers and points of view about the problems presented in 
 The course consist in a series of 9 lectures of approximately  2 hours each divided in different videos trating the following topics.
 
 ## 1. Introduction to Quantum Computing:
-  1. From bits to Qubits
+### 1. From bits to Qubits
 
 
 
